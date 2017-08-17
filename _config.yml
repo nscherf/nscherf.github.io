@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 
 name: Nico Scherf
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
