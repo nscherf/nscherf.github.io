@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Blog launch"
+title: "Cell dynamics preprint is out..."
 date: 2017-08-17
 ---
 
-Setting up a website using Jekyll and Github.
+Preprint of paper on zebrafish development is online at [bioRxiv](http://www.biorxiv.org/content/early/2017/08/09/173583).
